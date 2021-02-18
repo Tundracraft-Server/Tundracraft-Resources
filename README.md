@@ -1,5 +1,8 @@
-# Tundracraft-Resources
-Recursos usados en por el [Launcher de Tundracraft](https://github.com/Tundracraft-Server/TundracraftLauncher) para poder ser descargados. Este repositorio está separado del repositorio del Launcher para no tener que incluir todos los recursos en source.
+<p align="center"><img src="./logo.png" width="150px" height="150px" alt="Logo Tundracraft"></p>
+
+<h1 align="center">Tundracraft Resources</h1>
+
+<p align="center">Recursos usados en por el [Launcher de Tundracraft](https://github.com/Tundracraft-Server/TundracraftLauncher) para poder ser descargados. Este repositorio está separado del repositorio del Launcher para no tener que incluir todos los recursos en source.</a>.</p>
 
 Este repositorio contiene:
 - Mods
