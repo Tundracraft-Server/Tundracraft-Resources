@@ -2,9 +2,9 @@
 
 <h1 align="center">Tundracraft Resources</h1>
 
-<p align="center">Recursos usados en por el <a href="https://github.com/Tundracraft-Server/TundracraftLauncher">Launcher de Tundracraft</a> para poder ser descargados. Este repositorio está separado del repositorio del Launcher para no tener que incluir todos los recursos en source.</p>
+<p align="center">Resources used by the <a href="https://github.com/Tundracraft-Server/TundracraftLauncher">Tundracraft Launcher</a>, ready to be downloaded. This repo is separated from the main Launcher repository to avoid file duplication.</p>
 
-Este repositorio contiene:
+This contains:
 - Mods
-- Configs
-- Texturas
+- Config Files
+- Textures
