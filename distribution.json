@@ -9,9 +9,9 @@
   "servers": [
     {
       "id": "tundracraft-1.12.2",
-      "name": "tundracraft (Minecraft 1.12.2)",
-      "description": "tundracraft Running Minecraft 1.12.2 (Forge v14.23.5.2854)",
-      "icon": null,
+      "name": "Tundracraft (Minecraft 1.12.2)",
+      "description": "Tundracraft Running Minecraft 1.12.2 (Forge v14.23.5.2854)",
+      "icon": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/logo.png",
       "version": "1.0.0",
       "address": "176.9.225.251:25585",
       "minecraftVersion": "1.12.2",
