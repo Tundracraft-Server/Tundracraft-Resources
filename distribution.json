@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.2",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "808439787048009809",
@@ -10,9 +10,9 @@
     {
       "id": "tundracraft-1.12.2",
       "name": "Tundracraft (Minecraft 1.12.2)",
-      "description": "Tundracraft Running Minecraft 1.12.2 (Forge v14.23.5.2854)",
+      "description": "Tundracraft | damots02 | discord.gg/NpWBtzJDmQ",
       "icon": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/logo.png",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "address": "176.9.225.251:25585",
       "minecraftVersion": "1.12.2",
       "discord": {
@@ -246,6 +246,16 @@
           }
         },
         {
+          "id": "vazkii.akashictome:akashictome:1.2-12@jar",
+          "name": "Akashic Tome",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 44663,
+            "url": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/mods/required/AkashicTome.jar",
+            "MD5": "b753c7ce93ad8768e3ba3a9f35d16bee"
+          }
+        },
+        {
           "id": "squeek.appleskin:appleskin:1.0.9@jar",
           "name": "AppleSkin",
           "type": "ForgeMod",
@@ -266,6 +276,16 @@
           }
         },
         {
+          "id": "net.darkhax:attributefix:1.0.4@jar",
+          "name": "Attribute Fix",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6796,
+            "url": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/mods/required/AttributeFix-.jar",
+            "MD5": "d1d921d9bb092ee3b5fd193abe95db32"
+          }
+        },
+        {
           "id": "paulevs.betternether:betternether:0.1.8.6@jar",
           "name": "Better Nether",
           "type": "ForgeMod",
@@ -273,6 +293,16 @@
             "size": 1747264,
             "url": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/mods/required/BetterNether.jar",
             "MD5": "9fd15c6da32c5b00b1fc56578155cd30"
+          }
+        },
+        {
+          "id": "com.tterrag:betterplacement:1.0.0-1@jar",
+          "name": "Better Placement",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7025,
+            "url": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/mods/required/BetterPlacement.jar",
+            "MD5": "f4518692cd397dd5beda3903289352f7"
           }
         },
         {
@@ -296,6 +326,16 @@
           }
         },
         {
+          "id": "tk.zeitheron:botanicadds:12.2.6@jar",
+          "name": "Botanic Additions",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 199731,
+            "url": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/mods/required/BotanicAdditions.jar",
+            "MD5": "6cd809b24e1cb796cd8e9927df45c233"
+          }
+        },
+        {
           "id": "svenhjol.charm:charm:1.12.2-1.4.1@jar",
           "name": "Charm",
           "type": "ForgeMod",
@@ -306,6 +346,16 @@
           }
         },
         {
+          "id": "cubex2.mods:chesttransporter:1.12.2-2.8.8@jar",
+          "name": "Chest Transporter",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 314060,
+            "url": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/mods/required/ChestTransporter.jar",
+            "MD5": "6f5aadb16a4357aad4b8bc662b76de77"
+          }
+        },
+        {
           "id": "team.chisel:chisel:MC1.12.2-1.0.2.45@jar",
           "name": "Chisel",
           "type": "ForgeMod",
@@ -313,6 +363,16 @@
             "size": 4547399,
             "url": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/mods/required/Chisel.jar",
             "MD5": "4abca22b2d696a7cd8b70e1a129343df"
+          }
+        },
+        {
+          "id": "net.samtrion:compactdrawers:1.12.2-1.0.5.125@jar",
+          "name": "Compact Drawers",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 60646,
+            "url": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/mods/required/CompactDrawers.jar",
+            "MD5": "fd05137b9c240582ec1c49a99d077e34"
           }
         },
         {
@@ -396,6 +456,16 @@
           }
         },
         {
+          "id": "lykrast.defiledlands.core:defiledlands:1.12.2-1.4.3@jar",
+          "name": "Defiled Lands",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 780421,
+            "url": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/mods/required/DefiledLands.jar",
+            "MD5": "354e5d8333c692868199e72cc761e8d5"
+          }
+        },
+        {
           "id": "com.mrcrayfish.device:cdm:0.4.1@jar",
           "name": "MrCrayfish's Device Mod",
           "type": "ForgeMod",
@@ -403,6 +473,16 @@
             "size": 2733808,
             "url": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/mods/required/DeviceMod.jar",
             "MD5": "26fa65c0fa5462834d6eebfa4055a792"
+          }
+        },
+        {
+          "id": "com.focamacho:dupefixproject:3.1.1@jar",
+          "name": "DupeFix Project",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 936631,
+            "url": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/mods/required/DupeFix.jar",
+            "MD5": "94ca094705773f24310e511856cbbb83"
           }
         },
         {
@@ -423,6 +503,20 @@
             "size": 400741,
             "url": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/mods/required/Emojicord.jar",
             "MD5": "1c1223e1b650ccb280e8f4e98b5b231f"
+          }
+        },
+        {
+          "id": "com.tterrag:blur:1.0.4-14@jar",
+          "name": "Blur",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 16146,
+            "url": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/mods/optionaloff/EXT-Blur.jar",
+            "MD5": "fe6c57af5be36a9ed96f8ff7de61bbd1"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -447,6 +541,19 @@
             "size": 29043,
             "url": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/mods/optionalon/EXT-Controlling.jar",
             "MD5": "7696135b09e93265ff190e1ee97a8257"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "me.ichun.mods.ding.common.core:ding:1.12.2-1.0.2@jar",
+          "name": "Ding",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 8008,
+            "url": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/mods/optionalon/EXT-Ding.jar",
+            "MD5": "a53653c887baf2c82ceb55663e22a2a7"
           },
           "required": {
             "value": false
@@ -508,6 +615,16 @@
           }
         },
         {
+          "id": "p455w0rd.fencejumper:fencejumper:1.12-1.0.5@jar",
+          "name": "Fence Jumper",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6913,
+            "url": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/mods/required/FenceJumper.jar",
+            "MD5": "c1b823295baf4c1e27bd2128409a23f9"
+          }
+        },
+        {
           "id": "c0_0ry.ferdinandsflowers:ferdinandsflowers:1.10.4.1@jar",
           "name": "Ferdinand's Flowers",
           "type": "ForgeMod",
@@ -565,6 +682,16 @@
             "size": 20516,
             "url": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/mods/required/Ido.jar",
             "MD5": "103522249c0fe86372d6bfede026d35d"
+          }
+        },
+        {
+          "id": "dlovin.inventoryhud:inventoryhud:3.2.0@jar",
+          "name": "InventoryHUD+",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 152095,
+            "url": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/mods/required/InventoryHud.jar",
+            "MD5": "1f59c6ded0c5223aa3b6eea76a43aee3"
           }
         },
         {
@@ -728,6 +855,16 @@
           }
         },
         {
+          "id": "com.zeitheron:hammercore:2.0.6.26@jar",
+          "name": "Hammer Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2420178,
+            "url": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/mods/required/LIB%20HammerLib.jar",
+            "MD5": "f290c30f24de7fb766b121d382633b3d"
+          }
+        },
+        {
           "id": "reborncore:reborncore:3.19.4.529@jar",
           "name": "Reborn Core",
           "type": "ForgeMod",
@@ -788,6 +925,16 @@
           }
         },
         {
+          "id": "boni.dummy:testdummy:1.12-1.14@jar",
+          "name": "MmmMmmMmmMmm",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 33622,
+            "url": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/mods/required/MmmMmmMmmMmm.jar",
+            "MD5": "fcbb4656fcd9bebe4c69f4c84701289e"
+          }
+        },
+        {
           "id": "com.mrcrayfish.furniture:cfm:6.3.1@jar",
           "name": "MrCrayfish's Furniture Mod",
           "type": "ForgeMod",
@@ -835,6 +982,46 @@
             "size": 3217616,
             "url": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/mods/required/OpenBlocks.jar",
             "MD5": "cd7f642f983669c6ae94d6a999d0d6e9"
+          }
+        },
+        {
+          "id": "com.dynamic_view:dynview:1.3@jar",
+          "name": "Dynamic View Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 9627,
+            "url": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/mods/required/OPT%20DynView.jar",
+            "MD5": "52305b1d656d4bff85a7be20f9411146"
+          }
+        },
+        {
+          "id": "bl4ckscor3.mod:particleculling:v1.0.1@jar",
+          "name": "Particle Culling",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 894521,
+            "url": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/mods/required/OPT%20ParticleCulling.jar",
+            "MD5": "194a551c959e6b384c066200341d5c6e"
+          }
+        },
+        {
+          "id": "atm.bloodworkxgaming.atm1tweaks:pamscookables:1.1@jar",
+          "name": "Pam's Cookables",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4957,
+            "url": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/mods/required/PamsCookables.jar",
+            "MD5": "fc4183af6720617bc5df8cda3ba2e308"
+          }
+        },
+        {
+          "id": "com.pam:getalltheseeds:1.0@jar",
+          "name": "Pam's Get all the Seeds!",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3138,
+            "url": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/mods/required/PamsGetalltheSeeds.jar",
+            "MD5": "818ecebbdac8add19d023bfb58b69ac4"
           }
         },
         {
@@ -958,6 +1145,16 @@
           }
         },
         {
+          "id": "com.rejahtavi:rfp2:1.12.2-1.3.2@jar",
+          "name": "Real First Person 2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 33240,
+            "url": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/mods/required/RealFirstPerson2.jar",
+            "MD5": "ca24362c3c696c837a2612aefce21770"
+          }
+        },
+        {
           "id": "com.chaosthedude:realistictorches:1.12.2-2.1.2@jar",
           "name": "Realistic Torches",
           "type": "ForgeMod",
@@ -995,6 +1192,16 @@
             "size": 1633376,
             "url": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/mods/required/SecurityCraft.jar",
             "MD5": "97b623d1eb383eabf4714368ca6a4a97"
+          }
+        },
+        {
+          "id": "com.teamderpy:shouldersurfing:1.12.2-1.15.1@jar",
+          "name": "Shoulder Surfing",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 145960,
+            "url": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/mods/required/ShoulderSurfing.jar",
+            "MD5": "6a31da821753117bb481f016c42914e7"
           }
         },
         {
@@ -1138,6 +1345,16 @@
           }
         },
         {
+          "id": "astrotibs.villagenames:VillageNames:4.1.5@jar",
+          "name": "Village Names",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2470750,
+            "url": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/mods/required/VillageNames.jar",
+            "MD5": "5cab31cfabd4c40bb38c651e7d358a73"
+          }
+        },
+        {
           "id": "net.gliby.voicechat:imvoice:0.7.0@jar",
           "name": "§aImmersive Voice",
           "type": "ForgeMod",
@@ -1263,6 +1480,28 @@
           }
         },
         {
+          "id": "cfm.cfg",
+          "name": "cfm.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 7632,
+            "url": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/config/cfm.cfg",
+            "MD5": "d73d0166e2d7586fabb19c1a00747179",
+            "path": "config/cfm.cfg"
+          }
+        },
+        {
+          "id": "craftpresence.properties",
+          "name": "craftpresence.properties",
+          "type": "File",
+          "artifact": {
+            "size": 2675,
+            "url": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/config/craftpresence.properties",
+            "MD5": "a61307c1146a756b9d9ab6d9fe79b4e5",
+            "path": "config/craftpresence.properties"
+          }
+        },
+        {
           "id": "keybindings.txt",
           "name": "keybindings.txt",
           "type": "File",
@@ -1304,6 +1543,28 @@
             "url": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/config/defaultoptions.cfg",
             "MD5": "2a3cf44efe3d17af71af367df0442361",
             "path": "config/defaultoptions.cfg"
+          }
+        },
+        {
+          "id": "ebwizardry.cfg",
+          "name": "ebwizardry.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 52019,
+            "url": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/config/ebwizardry/ebwizardry.cfg",
+            "MD5": "e6e07975931df52a9dc554db461b572e",
+            "path": "config/ebwizardry/ebwizardry.cfg"
+          }
+        },
+        {
+          "id": "forge.cfg",
+          "name": "forge.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 3955,
+            "url": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/config/forge.cfg",
+            "MD5": "106a029d887c70ad6c308ad5c2d1ff6f",
+            "path": "config/forge.cfg"
           }
         },
         {
@@ -1414,6 +1675,17 @@
             "url": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/config/openblocks.cfg",
             "MD5": "57ab9110c23ff95041a1321480c302d9",
             "path": "config/openblocks.cfg"
+          }
+        },
+        {
+          "id": "vanillafix.cfg",
+          "name": "vanillafix.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 451,
+            "url": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/config/vanillafix.cfg",
+            "MD5": "9b218468aaa141854136249f2000327e",
+            "path": "config/vanillafix.cfg"
           }
         },
         {
