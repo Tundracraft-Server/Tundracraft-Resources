@@ -1,5 +1,5 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "808439787048009809",
@@ -12,7 +12,7 @@
       "name": "Tundracraft (Minecraft 1.12.2)",
       "description": "Tundracraft | damots02 | discord.gg/NpWBtzJDmQ",
       "icon": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/logo.png",
-      "version": "1.0.5",
+      "version": "1.0.6",
       "address": "176.9.225.251:25585",
       "minecraftVersion": "1.12.2",
       "discord": {
@@ -433,16 +433,6 @@
             "size": 854896,
             "url": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/mods/required/Cyberware.jar",
             "MD5": "409ddbd8e6674d2bb7933553496cdb3b"
-          }
-        },
-        {
-          "id": "de.libroru.dap:drugsandpills:2.0.3@jar",
-          "name": "DrugsandPills",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1098650,
-            "url": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/mods/required/DaPMod.jar",
-            "MD5": "12a19185ce26a3241042c897f8afbce4"
           }
         },
         {
@@ -1142,16 +1132,6 @@
             "size": 3754803,
             "url": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/mods/required/Quark.jar",
             "MD5": "262d2f4413e2aa29024ac14e2bb474cd"
-          }
-        },
-        {
-          "id": "com.rejahtavi:rfp2:1.12.2-1.3.2@jar",
-          "name": "Real First Person 2",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 33240,
-            "url": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/mods/required/RealFirstPerson2.jar",
-            "MD5": "ca24362c3c696c837a2612aefce21770"
           }
         },
         {
