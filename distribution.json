@@ -1,5 +1,5 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.7",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "808439787048009809",
@@ -12,7 +12,7 @@
       "name": "Tundracraft (Minecraft 1.12.2)",
       "description": "Tundracraft | damots02 | discord.gg/NpWBtzJDmQ",
       "icon": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/logo.png",
-      "version": "1.0.6",
+      "version": "1.0.7",
       "address": "176.9.225.251:25585",
       "minecraftVersion": "1.12.2",
       "discord": {
@@ -1432,6 +1432,19 @@
             "size": 389773,
             "url": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/mods/required/Vending.jar",
             "MD5": "a89b3bbf606f97572f78daf5bb734c77"
+          }
+        },
+        {
+          "id": "com.rejahtavi:rfp2:1.12.2-1.3.2@jar",
+          "name": "Real First Person 2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 33240,
+            "url": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/mods/optionalon/EXT-RealFirstPerson2.jar",
+            "MD5": "ca24362c3c696c837a2612aefce21770"
+          },
+          "required": {
+            "value": false
           }
         },
         {
