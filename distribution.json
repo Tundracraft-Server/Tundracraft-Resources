@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "808439787048009809",
@@ -12,7 +12,7 @@
       "name": "Tundracraft (Minecraft 1.12.2)",
       "description": "Tundracraft | damots02 | discord.gg/NpWBtzJDmQ",
       "icon": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/logo.png",
-      "version": "1.0.3",
+      "version": "1.0.4",
       "address": "176.9.225.251:25585",
       "minecraftVersion": "1.12.2",
       "discord": {
@@ -1509,29 +1509,7 @@
             "size": 4653,
             "url": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/config/defaultoptions/keybindings.txt",
             "MD5": "c4dd8e485d609928ef7782f12ad1ce68",
-            "path": "config/defaultoptions/keybindings.txt"
-          }
-        },
-        {
-          "id": "options.txt",
-          "name": "options.txt",
-          "type": "File",
-          "artifact": {
-            "size": 1444,
-            "url": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/config/defaultoptions/options.txt",
-            "MD5": "b2d8d6666b5c2eeb2e0b03b37097485e",
-            "path": "config/defaultoptions/options.txt"
-          }
-        },
-        {
-          "id": "optionsof.txt",
-          "name": "optionsof.txt",
-          "type": "File",
-          "artifact": {
-            "size": 1436,
-            "url": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/config/defaultoptions/optionsof.txt",
-            "MD5": "664db11688351d6846bca0b42a019b68",
-            "path": "config/defaultoptions/optionsof.txt"
+            "path": "defaultoptions/keybindings.txt"
           }
         },
         {
