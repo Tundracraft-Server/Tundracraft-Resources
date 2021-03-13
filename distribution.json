@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "808439787048009809",
@@ -12,7 +12,7 @@
       "name": "Tundracraft (Minecraft 1.12.2)",
       "description": "Tundracraft | damots02 | discord.gg/NpWBtzJDmQ",
       "icon": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/logo.png",
-      "version": "1.0.4",
+      "version": "1.0.5",
       "address": "176.9.225.251:25585",
       "minecraftVersion": "1.12.2",
       "discord": {
@@ -1425,6 +1425,36 @@
           }
         },
         {
+          "id": "com.shruglabs:hempfarmer:0.0.1@jar",
+          "name": "HempFarmer",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 264114,
+            "url": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/mods/required/Hempfarmer.jar",
+            "MD5": "c908d3d7417740a6d0f6e53b06ef292b"
+          }
+        },
+        {
+          "id": "com.kamildanak.minecraft:foamflower:1.12.2-1.0.0.0-beta1@jar",
+          "name": "Foamflower",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 67908,
+            "url": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/mods/required/LIB%20Foamflower.jar",
+            "MD5": "6f45a5552ea322d4419660682d195765"
+          }
+        },
+        {
+          "id": "info.jbcs.minecraft:vending:1.12.2-3.0.1.2@jar",
+          "name": "Vending",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 389773,
+            "url": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/mods/required/Vending.jar",
+            "MD5": "a89b3bbf606f97572f78daf5bb734c77"
+          }
+        },
+        {
           "id": "mainmenu.json",
           "name": "mainmenu.json",
           "type": "File",
@@ -1495,9 +1525,9 @@
           "name": "craftpresence.properties",
           "type": "File",
           "artifact": {
-            "size": 2675,
+            "size": 2670,
             "url": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/config/craftpresence.properties",
-            "MD5": "a61307c1146a756b9d9ab6d9fe79b4e5",
+            "MD5": "bc33cdc15b3f4664dad88ed11ab76077",
             "path": "config/craftpresence.properties"
           }
         },
