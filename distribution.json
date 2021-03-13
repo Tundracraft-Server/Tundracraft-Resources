@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "808439787048009809",
@@ -12,7 +12,7 @@
       "name": "Tundracraft (Minecraft 1.12.2)",
       "description": "Tundracraft | damots02 | discord.gg/NpWBtzJDmQ",
       "icon": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/logo.png",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "address": "176.9.225.251:25585",
       "minecraftVersion": "1.12.2",
       "discord": {
@@ -1664,6 +1664,28 @@
             "url": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/config/journeymap/config/5.7/journeymap.webmap.config",
             "MD5": "eb3869be3d84cbfe3e61b80616e2e5de",
             "path": "config/journeymap/config/5.7/journeymap.webmap.config"
+          }
+        },
+        {
+          "id": "betterfps.json",
+          "name": "betterfps.json",
+          "type": "File",
+          "artifact": {
+            "size": 177,
+            "url": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/config/betterfps.json",
+            "MD5": "20b7479cc5bde9d7c421dddd8785a7ad",
+            "path": "config/betterfps.json"
+          }
+        },
+        {
+          "id": "inventoryhud.cfg",
+          "name": "inventoryhud.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 6324,
+            "url": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/config/inventoryhud.cfg",
+            "MD5": "8383bd99a01579f55a3b3c621017a6a9",
+            "path": "config/inventoryhud.cfg"
           }
         },
         {
