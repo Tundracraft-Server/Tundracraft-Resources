@@ -1,5 +1,5 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.8",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "808439787048009809",
@@ -12,7 +12,7 @@
       "name": "Tundracraft (Minecraft 1.12.2)",
       "description": "Tundracraft | damots02 | discord.gg/NpWBtzJDmQ",
       "icon": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/logo.png",
-      "version": "1.0.7",
+      "version": "1.0.8",
       "address": "176.9.225.251:25585",
       "minecraftVersion": "1.12.2",
       "discord": {
@@ -1742,6 +1742,17 @@
             "url": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/config/waila/waila.cfg",
             "MD5": "a975339c8479dbdfcc04619f1c82fa11",
             "path": "config/waila/waila.cfg"
+          }
+        },
+        {
+          "id": "quark.cfg",
+          "name": "quark.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 103826,
+            "url": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/config/quark.cfg",
+            "MD5": "1b063575c34253135cd0301eaff7dc44",
+            "path": "config/quark.cfg"
           }
         }
       ]
