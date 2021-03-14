@@ -1,5 +1,5 @@
 {
-  "version": "1.0.8",
+  "version": "1.0.9",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "808439787048009809",
@@ -12,7 +12,7 @@
       "name": "Tundracraft (Minecraft 1.12.2)",
       "description": "Tundracraft | damots02 | discord.gg/NpWBtzJDmQ",
       "icon": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/logo.png",
-      "version": "1.0.8",
+      "version": "1.0.9",
       "address": "176.9.225.251:25585",
       "minecraftVersion": "1.12.2",
       "discord": {
@@ -1445,6 +1445,16 @@
           },
           "required": {
             "value": false
+          }
+        },
+        {
+          "id": "com.pg85.otg:openterraingenerator:1.12.2-v9.3@jar",
+          "name": "Open Terrain Generator",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4561377,
+            "url": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/mods/required/OpenTerrainGenerator.jar",
+            "MD5": "d2217d13d7e454174124a0ac14750f23"
           }
         },
         {
