@@ -1,5 +1,5 @@
 {
-  "version": "1.0.9",
+  "version": "1.1.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "808439787048009809",
@@ -12,7 +12,7 @@
       "name": "Tundracraft (Minecraft 1.12.2)",
       "description": "Tundracraft | damots02 | discord.gg/NpWBtzJDmQ",
       "icon": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/logo.png",
-      "version": "1.0.9",
+      "version": "1.1.0",
       "address": "176.9.225.251:25585",
       "minecraftVersion": "1.12.2",
       "discord": {
@@ -1763,6 +1763,50 @@
             "url": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/config/quark.cfg",
             "MD5": "1b063575c34253135cd0301eaff7dc44",
             "path": "config/quark.cfg"
+          }
+        },
+        {
+          "id": "ascii.png",
+          "name": "ascii.png",
+          "type": "File",
+          "artifact": {
+            "size": 7416,
+            "url": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/resources/font/assets/minecraft/textures/font/ascii.png",
+            "MD5": "25d87ab06915b7a1beb9833377fa3bc3",
+            "path": "resources/font/assets/minecraft/textures/font/ascii.png"
+          }
+        },
+        {
+          "id": "ascii.properties",
+          "name": "ascii.properties",
+          "type": "File",
+          "artifact": {
+            "size": 2007,
+            "url": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/resources/font/assets/minecraft/textures/font/ascii.properties",
+            "MD5": "62a9b1e877ae16bd77c111d66968bff7",
+            "path": "resources/font/assets/minecraft/textures/font/ascii.properties"
+          }
+        },
+        {
+          "id": "ascii_sga.png",
+          "name": "ascii_sga.png",
+          "type": "File",
+          "artifact": {
+            "size": 4177,
+            "url": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/resources/font/assets/minecraft/textures/font/ascii_sga.png",
+            "MD5": "456acf9d416f538a0f3452170b21c8d7",
+            "path": "resources/font/assets/minecraft/textures/font/ascii_sga.png"
+          }
+        },
+        {
+          "id": "ascii_sga.properties",
+          "name": "ascii_sga.properties",
+          "type": "File",
+          "artifact": {
+            "size": 645,
+            "url": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/resources/font/assets/minecraft/textures/font/ascii_sga.properties",
+            "MD5": "73c6c0a9c8960a4f9b573cfb81814737",
+            "path": "resources/font/assets/minecraft/textures/font/ascii_sga.properties"
           }
         }
       ]
