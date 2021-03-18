@@ -1,5 +1,5 @@
 {
-  "version": "1.1.1",
+  "version": "1.1.2",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "808439787048009809",
@@ -12,7 +12,7 @@
       "name": "Tundracraft (Minecraft 1.12.2)",
       "description": "Tundracraft | damots02 | discord.gg/NpWBtzJDmQ",
       "icon": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/logo.png",
-      "version": "1.1.1",
+      "version": "1.1.2",
       "address": "176.9.225.251:25585",
       "minecraftVersion": "1.12.2",
       "discord": {
@@ -1455,6 +1455,43 @@
             "size": 4561377,
             "url": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/mods/required/OpenTerrainGenerator.jar",
             "MD5": "d2217d13d7e454174124a0ac14750f23"
+          }
+        },
+        {
+          "id": "com.llamalad7:betterchat:1.4@jar",
+          "name": "Better Chat",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 20203,
+            "url": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/mods/optionalon/BetterChat.jar",
+            "MD5": "fcee5583c5b36de3214bfb754050920f"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "noppes.npcs:customnpcs:1.12@jar",
+          "name": "CustomNPCs",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 9911871,
+            "url": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/mods/required/CustomNPCs.jar",
+            "MD5": "3ab1a5c4b069d574631da5bc1880ebf7"
+          }
+        },
+        {
+          "id": "com.dazo66.shulkerboxshower:shulkerboxviewer:1.5@jar",
+          "name": "ShulkerBoxViewer",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 20380,
+            "url": "https://raw.githubusercontent.com/Tundracraft-Server/Tundracraft-Resources/main/mods/optionaloff/ShulkerBoxViewer.jar",
+            "MD5": "0f766216cd46fa058ade087525c34d9f"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
