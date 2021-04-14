@@ -1945,7 +1945,7 @@
       "name": "Tundracraft Eventos",
       "description": "Tundracraft | damots02 | discord.gg/NpWBtzJDmQ",
       "icon": "http://176.9.225.251:8123/static/tundracraftsrv/graylogo.png",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "address": "176.9.225.251:25585",
       "minecraftVersion": "1.12.2",
       "discord": {
@@ -2925,6 +2925,28 @@
             "url": "http://176.9.225.251:8123/static/event/config/235428738748121088.json",
             "MD5": "b6ebc931358af33434bdb84a4156c030",
             "path": "emojicord/dictionary/235428738748121088.json"
+          }
+        },
+        {
+          "id": "en_us.lang",
+          "name": "en_us.lang",
+          "type": "File",
+          "artifact": {
+            "size": 998,
+            "url": "http://176.9.225.251:8123/static/event/resources/minecraft/lang/en_us.lang",
+            "MD5": "f6ce99f57d291023c69c2fcc65db667f",
+            "path": "resources/minecraft/lang/en_us.lang"
+          }
+        },
+        {
+          "id": "es_es.lang",
+          "name": "es_es.lang",
+          "type": "File",
+          "artifact": {
+            "size": 998,
+            "url": "http://176.9.225.251:8123/static/event/resources/minecraft/lang/es_es.lang",
+            "MD5": "f6ce99f57d291023c69c2fcc65db667f",
+            "path": "resources/minecraft/lang/es_es.lang"
           }
         }
       ]
