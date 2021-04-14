@@ -1945,7 +1945,7 @@
       "name": "Tundracraft Eventos",
       "description": "Tundracraft | damots02 | discord.gg/NpWBtzJDmQ",
       "icon": "http://176.9.225.251:8123/static/tundracraftsrv/graylogo.png",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "address": "176.9.225.251:25585",
       "minecraftVersion": "1.12.2",
       "discord": {
@@ -1963,7 +1963,7 @@
           "artifact": {
             "size": 4464068,
             "MD5": "ff6f0650ff84d4c8e03da9a4f536d9e1",
-            "url": "http://176.9.225.251:8123/static/tundracraftsrv/internals/lib/net/minecraftforge/forge/1.12.2-14.23.5.2854/forge-1.12.2-14.23.5.2854-universal.jar"
+            "url": "http://176.9.225.251:8123/static/event/internals/lib/net/minecraftforge/forge/1.12.2-14.23.5.2854/forge-1.12.2-14.23.5.2854-universal.jar"
           },
           "subModules": [
             {
@@ -1973,7 +1973,7 @@
               "artifact": {
                 "size": 10873,
                 "MD5": "814f52398b6ebf70d22571307d2298eb",
-                "url": "http://176.9.225.251:8123/static/tundracraftsrv/internals/versions/1.12.2-forge-14.23.5.2854/1.12.2-forge-14.23.5.2854.json"
+                "url": "http://176.9.225.251:8123/static/event/internals/versions/1.12.2-forge-14.23.5.2854/1.12.2-forge-14.23.5.2854.json"
               }
             },
             {
@@ -1983,7 +1983,7 @@
               "artifact": {
                 "size": 387903,
                 "MD5": "fe5f20404ccdee9769ef05dc4b47ba98",
-                "url": "http://176.9.225.251:8123/static/tundracraftsrv/internals/lib/org/ow2/asm/asm-debug-all/5.2/asm-debug-all-5.2.jar"
+                "url": "http://176.9.225.251:8123/static/event/internals/lib/org/ow2/asm/asm-debug-all/5.2/asm-debug-all-5.2.jar"
               }
             },
             {
@@ -1993,7 +1993,7 @@
               "artifact": {
                 "size": 32999,
                 "MD5": "934b2d91c7c5be4a49577c9e6b40e8da",
-                "url": "http://176.9.225.251:8123/static/tundracraftsrv/internals/lib/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar"
+                "url": "http://176.9.225.251:8123/static/event/internals/lib/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar"
               }
             },
             {
@@ -2003,7 +2003,7 @@
               "artifact": {
                 "size": 614590,
                 "MD5": "4c20d2879ed2bd75a0771ce29e89f6b0",
-                "url": "http://176.9.225.251:8123/static/tundracraftsrv/internals/lib/org/jline/jline/3.5.1/jline-3.5.1.jar"
+                "url": "http://176.9.225.251:8123/static/event/internals/lib/org/jline/jline/3.5.1/jline-3.5.1.jar"
               }
             },
             {
@@ -2013,7 +2013,7 @@
               "artifact": {
                 "size": 2514991,
                 "MD5": "541440ca0819ebada47d6d1a8b3ee9e1",
-                "url": "http://176.9.225.251:8123/static/tundracraftsrv/internals/lib/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar"
+                "url": "http://176.9.225.251:8123/static/event/internals/lib/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar"
               }
             },
             {
@@ -2023,7 +2023,7 @@
               "artifact": {
                 "size": 219554,
                 "MD5": "3aaf3c6e76a68e732c17d4a7e9877d81",
-                "url": "http://176.9.225.251:8123/static/tundracraftsrv/internals/lib/com/typesafe/config/1.2.1/config-1.2.1.jar"
+                "url": "http://176.9.225.251:8123/static/event/internals/lib/com/typesafe/config/1.2.1/config-1.2.1.jar"
               }
             },
             {
@@ -2033,7 +2033,7 @@
               "artifact": {
                 "size": 58018,
                 "MD5": "f5e79398daa1806f8b17311a3c782723",
-                "url": "http://176.9.225.251:8123/static/tundracraftsrv/internals/lib/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar"
+                "url": "http://176.9.225.251:8123/static/event/internals/lib/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar"
               }
             },
             {
@@ -2043,7 +2043,7 @@
               "artifact": {
                 "size": 13449765,
                 "MD5": "06030143bf86ca896fb6ccfd679b5760",
-                "url": "http://176.9.225.251:8123/static/tundracraftsrv/internals/lib/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar"
+                "url": "http://176.9.225.251:8123/static/event/internals/lib/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar"
               }
             },
             {
@@ -2053,7 +2053,7 @@
               "artifact": {
                 "size": 25365,
                 "MD5": "004d7007abbcee858d3ca2c3ccbcbaab",
-                "url": "http://176.9.225.251:8123/static/tundracraftsrv/internals/lib/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2_mc/scala-continuations-library_2.11-1.0.2_mc.jar"
+                "url": "http://176.9.225.251:8123/static/event/internals/lib/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2_mc/scala-continuations-library_2.11-1.0.2_mc.jar"
               }
             },
             {
@@ -2063,7 +2063,7 @@
               "artifact": {
                 "size": 206575,
                 "MD5": "359c4a6743a082c689039482eed78670",
-                "url": "http://176.9.225.251:8123/static/tundracraftsrv/internals/lib/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2_mc/scala-continuations-plugin_2.11.1-1.0.2_mc.jar"
+                "url": "http://176.9.225.251:8123/static/event/internals/lib/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2_mc/scala-continuations-plugin_2.11.1-1.0.2_mc.jar"
               }
             },
             {
@@ -2073,7 +2073,7 @@
               "artifact": {
                 "size": 5538130,
                 "MD5": "1d88f665219e6006c5dd82d71c525c0f",
-                "url": "http://176.9.225.251:8123/static/tundracraftsrv/internals/lib/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar"
+                "url": "http://176.9.225.251:8123/static/event/internals/lib/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar"
               }
             },
             {
@@ -2083,7 +2083,7 @@
               "artifact": {
                 "size": 419701,
                 "MD5": "4e694499c965af4a02599c99d4f0b196",
-                "url": "http://176.9.225.251:8123/static/tundracraftsrv/internals/lib/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar"
+                "url": "http://176.9.225.251:8123/static/event/internals/lib/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar"
               }
             },
             {
@@ -2093,7 +2093,7 @@
               "artifact": {
                 "size": 4372892,
                 "MD5": "7878fac044e4e4b576bb35a77ccc34fc",
-                "url": "http://176.9.225.251:8123/static/tundracraftsrv/internals/lib/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar"
+                "url": "http://176.9.225.251:8123/static/event/internals/lib/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar"
               }
             },
             {
@@ -2103,7 +2103,7 @@
               "artifact": {
                 "size": 726500,
                 "MD5": "1009d69e4948045383f2a7a334348af5",
-                "url": "http://176.9.225.251:8123/static/tundracraftsrv/internals/lib/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar"
+                "url": "http://176.9.225.251:8123/static/event/internals/lib/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar"
               }
             },
             {
@@ -2113,7 +2113,7 @@
               "artifact": {
                 "size": 648679,
                 "MD5": "c2d7e66495afe14545c31b21e99879ef",
-                "url": "http://176.9.225.251:8123/static/tundracraftsrv/internals/lib/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar"
+                "url": "http://176.9.225.251:8123/static/event/internals/lib/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar"
               }
             },
             {
@@ -2123,7 +2123,7 @@
               "artifact": {
                 "size": 5762,
                 "MD5": "a3e3c3186e41c4a1a3027ba2bb23cdc6",
-                "url": "http://176.9.225.251:8123/static/tundracraftsrv/internals/lib/lzma/lzma/0.0.1/lzma-0.0.1.jar"
+                "url": "http://176.9.225.251:8123/static/event/internals/lib/lzma/lzma/0.0.1/lzma-0.0.1.jar"
               }
             },
             {
@@ -2133,7 +2133,7 @@
               "artifact": {
                 "size": 318956,
                 "MD5": "e5d2b7f46c4800a32f62ce75676a5710",
-                "url": "http://176.9.225.251:8123/static/tundracraftsrv/internals/lib/java3d/vecmath/1.5.2/vecmath-1.5.2.jar"
+                "url": "http://176.9.225.251:8123/static/event/internals/lib/java3d/vecmath/1.5.2/vecmath-1.5.2.jar"
               }
             },
             {
@@ -2143,7 +2143,7 @@
               "artifact": {
                 "size": 2523218,
                 "MD5": "8fc4d4e0129244f9fd39650c5f30feb2",
-                "url": "http://176.9.225.251:8123/static/tundracraftsrv/internals/lib/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar"
+                "url": "http://176.9.225.251:8123/static/event/internals/lib/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar"
               }
             },
             {
@@ -2153,7 +2153,7 @@
               "artifact": {
                 "size": 54961,
                 "MD5": "7741ebf29690ee7d9dde9cf4376347fc",
-                "url": "http://176.9.225.251:8123/static/tundracraftsrv/internals/lib/org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar"
+                "url": "http://176.9.225.251:8123/static/event/internals/lib/org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar"
               }
             },
             {
@@ -2163,7 +2163,7 @@
               "artifact": {
                 "size": 78175,
                 "MD5": "0a5ec84e23df9d7cfb4063bc55f2744c",
-                "url": "http://176.9.225.251:8123/static/tundracraftsrv/internals/lib/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar"
+                "url": "http://176.9.225.251:8123/static/event/internals/lib/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar"
               }
             }
           ]
@@ -2174,8 +2174,18 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 20000,
-            "url": "http://176.9.225.251:8123/static/tundracraftsrv/mods/required/AdvancedDarkness.jar",
+            "url": "http://176.9.225.251:8123/static/event/mods/required/AdvancedDarkness.jar",
             "MD5": "1ff528708788b3120e0a76cdecbd05c3"
+          }
+        },
+        {
+          "id": "mod.lucky:lucky:7.6.0@jar",
+          "name": "Lucky Block",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 224316,
+            "url": "http://176.9.225.251:8123/static/event/mods/required/Luckyblock.jar",
+            "MD5": "8389d3c6a94b1578dfd6ec4a00ffc2e4"
           }
         },
         {
@@ -2184,7 +2194,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 585602,
-            "url": "http://176.9.225.251:8123/static/tundracraftsrv/mods/required/JEI.jar",
+            "url": "http://176.9.225.251:8123/static/event/mods/required/JEI.jar",
             "MD5": "4c29a83c4f6388901a5d9a6dc54f6198"
           }
         },
@@ -2194,7 +2204,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 14586,
-            "url": "http://176.9.225.251:8123/static/tundracraftsrv/mods/required/ITLT.jar",
+            "url": "http://176.9.225.251:8123/static/event/mods/required/ITLT.jar",
             "MD5": "a0e93fb635fc5acad26d39207685d0e0"
           }
         },
@@ -2204,7 +2214,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 433438,
-            "url": "http://176.9.225.251:8123/static/tundracraftsrv/mods/required/Hwyla.jar",
+            "url": "http://176.9.225.251:8123/static/event/mods/required/Hwyla.jar",
             "MD5": "3b8517d9deba59e94d2f0f5e21073080"
           }
         },
@@ -2214,7 +2224,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 283513,
-            "url": "http://176.9.225.251:8123/static/tundracraftsrv/mods/optionalon/EXT-SmoothFont.jar",
+            "url": "http://176.9.225.251:8123/static/event/mods/optionalon/EXT-SmoothFont.jar",
             "MD5": "696c2cab0d01b90e33f6c85277f1ea83"
           },
           "required": {
@@ -2227,7 +2237,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 8008,
-            "url": "http://176.9.225.251:8123/static/tundracraftsrv/mods/optionalon/EXT-Ding.jar",
+            "url": "http://176.9.225.251:8123/static/event/mods/optionalon/EXT-Ding.jar",
             "MD5": "a53653c887baf2c82ceb55663e22a2a7"
           },
           "required": {
@@ -2240,7 +2250,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 25447,
-            "url": "http://176.9.225.251:8123/static/tundracraftsrv/mods/optionaloff/EXT-ChunkAnimator.jar",
+            "url": "http://176.9.225.251:8123/static/event/mods/optionaloff/EXT-ChunkAnimator.jar",
             "MD5": "47667bc52f07c777263ac5345c6a42ec"
           },
           "required": {
@@ -2254,7 +2264,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 16146,
-            "url": "http://176.9.225.251:8123/static/tundracraftsrv/mods/optionaloff/EXT-Blur.jar",
+            "url": "http://176.9.225.251:8123/static/event/mods/optionaloff/EXT-Blur.jar",
             "MD5": "fe6c57af5be36a9ed96f8ff7de61bbd1"
           },
           "required": {
@@ -2268,7 +2278,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 400741,
-            "url": "http://176.9.225.251:8123/static/tundracraftsrv/mods/required/Emojicord.jar",
+            "url": "http://176.9.225.251:8123/static/event/mods/required/Emojicord.jar",
             "MD5": "1c1223e1b650ccb280e8f4e98b5b231f"
           }
         },
@@ -2278,7 +2288,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 91121,
-            "url": "http://176.9.225.251:8123/static/tundracraftsrv/mods/required/CustomMainMenu.jar",
+            "url": "http://176.9.225.251:8123/static/event/mods/required/CustomMainMenu.jar",
             "MD5": "c12200ad89f9399d5bdcbe9da7900bb9"
           }
         },
@@ -2288,7 +2298,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 537907,
-            "url": "http://176.9.225.251:8123/static/tundracraftsrv/mods/required/CraftPresence.jar",
+            "url": "http://176.9.225.251:8123/static/event/mods/required/CraftPresence.jar",
             "MD5": "7bf39025cd417ece8edc327eb5df330a"
           }
         },
@@ -2298,7 +2308,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 32317,
-            "url": "http://176.9.225.251:8123/static/tundracraftsrv/mods/required/AppleSkin.jar",
+            "url": "http://176.9.225.251:8123/static/event/mods/required/AppleSkin.jar",
             "MD5": "0e0af1e6f80ea2ee7ecfc2f8f44b897b"
           }
         },
@@ -2308,7 +2318,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 894521,
-            "url": "http://176.9.225.251:8123/static/tundracraftsrv/mods/required/OPT%20ParticleCulling.jar",
+            "url": "http://176.9.225.251:8123/static/event/mods/required/OPT%20ParticleCulling.jar",
             "MD5": "194a551c959e6b384c066200341d5c6e"
           }
         },
@@ -2318,7 +2328,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 155196,
-            "url": "http://176.9.225.251:8123/static/tundracraftsrv/mods/required/PEF-BetterFps.jar",
+            "url": "http://176.9.225.251:8123/static/event/mods/required/PEF-BetterFps.jar",
             "MD5": "d36f4d3c0f96e99a9a1ad2e8eeda1fc4"
           }
         },
@@ -2328,7 +2338,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 13792,
-            "url": "http://176.9.225.251:8123/static/tundracraftsrv/mods/required/PEF-Clumps.jar",
+            "url": "http://176.9.225.251:8123/static/event/mods/required/PEF-Clumps.jar",
             "MD5": "e0c4c4f04aeb0e0a48fc7534f9e7d6be"
           }
         },
@@ -2338,7 +2348,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 201683,
-            "url": "http://176.9.225.251:8123/static/tundracraftsrv/mods/required/PEF-FoamFix.jar",
+            "url": "http://176.9.225.251:8123/static/event/mods/required/PEF-FoamFix.jar",
             "MD5": "bba94f1ee252fcfbd2d52779f5c2f2b1"
           }
         },
@@ -2348,7 +2358,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2669107,
-            "url": "http://176.9.225.251:8123/static/tundracraftsrv/mods/required/PEF-Optifine.jar",
+            "url": "http://176.9.225.251:8123/static/event/mods/required/PEF-Optifine.jar",
             "MD5": "54e561e441192cf009803ae95873c5d0"
           }
         },
@@ -2358,7 +2368,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2466362,
-            "url": "http://176.9.225.251:8123/static/tundracraftsrv/mods/required/PEF-Performant.jar",
+            "url": "http://176.9.225.251:8123/static/event/mods/required/PEF-Performant.jar",
             "MD5": "62a7c679562f726af9e93995ec244ad7"
           }
         },
@@ -2368,7 +2378,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 920264,
-            "url": "http://176.9.225.251:8123/static/tundracraftsrv/mods/required/PEF-Phosphor.jar",
+            "url": "http://176.9.225.251:8123/static/event/mods/required/PEF-Phosphor.jar",
             "MD5": "13f62131ab2fff6212301ee70f6bf5d8"
           }
         },
@@ -2378,7 +2388,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 957330,
-            "url": "http://176.9.225.251:8123/static/tundracraftsrv/mods/required/PEF-Surge.jar",
+            "url": "http://176.9.225.251:8123/static/event/mods/required/PEF-Surge.jar",
             "MD5": "9f495709f961117c7823827ca10df0c8"
           }
         },
@@ -2388,7 +2398,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1025896,
-            "url": "http://176.9.225.251:8123/static/tundracraftsrv/mods/required/PEF-VanillaFix.jar",
+            "url": "http://176.9.225.251:8123/static/event/mods/required/PEF-VanillaFix.jar",
             "MD5": "a74aaab68100e03f54e35d1007d50169"
           }
         },
@@ -2398,7 +2408,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 16612,
-            "url": "http://176.9.225.251:8123/static/tundracraftsrv/mods/required/ResourceLoader.jar",
+            "url": "http://176.9.225.251:8123/static/event/mods/required/ResourceLoader.jar",
             "MD5": "51141e882f96ce756b9b3d25f2acdf57"
           }
         },
@@ -2408,7 +2418,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 145960,
-            "url": "http://176.9.225.251:8123/static/tundracraftsrv/mods/required/ShoulderSurfing.jar",
+            "url": "http://176.9.225.251:8123/static/event/mods/required/ShoulderSurfing.jar",
             "MD5": "6a31da821753117bb481f016c42914e7"
           }
         },
@@ -2418,7 +2428,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 104481,
-            "url": "http://176.9.225.251:8123/static/tundracraftsrv/mods/required/Spiders20.jar",
+            "url": "http://176.9.225.251:8123/static/event/mods/required/Spiders20.jar",
             "MD5": "b4e6c66e72aed63e4a78529642ea597b"
           }
         },
@@ -2428,7 +2438,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 24024,
-            "url": "http://176.9.225.251:8123/static/tundracraftsrv/mods/required/SwingThroughGrass.jar",
+            "url": "http://176.9.225.251:8123/static/event/mods/required/SwingThroughGrass.jar",
             "MD5": "b836648006f1451c65d33f7132eec770"
           }
         },
@@ -2438,7 +2448,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1348891,
-            "url": "http://176.9.225.251:8123/static/tundracraftsrv/mods/required/VanillaBuildersExtension.jar",
+            "url": "http://176.9.225.251:8123/static/event/mods/required/VanillaBuildersExtension.jar",
             "MD5": "1b81521bef401b56633520c27841556e"
           }
         },
@@ -2448,7 +2458,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 431288,
-            "url": "http://176.9.225.251:8123/static/tundracraftsrv/mods/required/VoiceChat.jar",
+            "url": "http://176.9.225.251:8123/static/event/mods/required/VoiceChat.jar",
             "MD5": "a7d96c1e8b8cc6018e4c55a064bd4806"
           }
         },
@@ -2458,7 +2468,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 33240,
-            "url": "http://176.9.225.251:8123/static/tundracraftsrv/mods/optionalon/EXT-RealFirstPerson2.jar",
+            "url": "http://176.9.225.251:8123/static/event/mods/optionalon/EXT-RealFirstPerson2.jar",
             "MD5": "ca24362c3c696c837a2612aefce21770"
           },
           "required": {
@@ -2471,7 +2481,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 20203,
-            "url": "http://176.9.225.251:8123/static/tundracraftsrv/mods/optionalon/BetterChat.jar",
+            "url": "http://176.9.225.251:8123/static/event/mods/optionalon/BetterChat.jar",
             "MD5": "fcee5583c5b36de3214bfb754050920f"
           },
           "required": {
@@ -2484,7 +2494,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 20380,
-            "url": "http://176.9.225.251:8123/static/tundracraftsrv/mods/optionaloff/ShulkerBoxViewer.jar",
+            "url": "http://176.9.225.251:8123/static/event/mods/optionaloff/ShulkerBoxViewer.jar",
             "MD5": "0f766216cd46fa058ade087525c34d9f"
           },
           "required": {
@@ -2498,7 +2508,7 @@
           "type": "File",
           "artifact": {
             "size": 6178,
-            "url": "http://176.9.225.251:8123/static/tundracraftsrv/config/CustomMainMenu/mainmenu.json",
+            "url": "http://176.9.225.251:8123/static/event/config/CustomMainMenu/mainmenu.json",
             "MD5": "dab3393230eee1ec7378e86d91fd877e",
             "path": "config/CustomMainMenu/mainmenu.json"
           }
@@ -2509,7 +2519,7 @@
           "type": "File",
           "artifact": {
             "size": 6306,
-            "url": "http://176.9.225.251:8123/static/tundracraftsrv/config/CustomMainMenu/mainmenu_small.json",
+            "url": "http://176.9.225.251:8123/static/event/config/CustomMainMenu/mainmenu_small.json",
             "MD5": "b6c82562645005fe60d194be311f4018",
             "path": "config/CustomMainMenu/mainmenu_small.json"
           }
@@ -2520,7 +2530,7 @@
           "type": "File",
           "artifact": {
             "size": 1551,
-            "url": "http://176.9.225.251:8123/static/tundracraftsrv/config/CustomNpcs.cfg",
+            "url": "http://176.9.225.251:8123/static/event/config/CustomNpcs.cfg",
             "MD5": "5b98850ac86b80b923507f442e5c95df",
             "path": "config/CustomNpcs.cfg"
           }
@@ -2531,7 +2541,7 @@
           "type": "File",
           "artifact": {
             "size": 0,
-            "url": "http://176.9.225.251:8123/static/tundracraftsrv/config/WatchDog/LoadedMods_FromLastStart.txt",
+            "url": "http://176.9.225.251:8123/static/event/config/WatchDog/LoadedMods_FromLastStart.txt",
             "MD5": "d41d8cd98f00b204e9800998ecf8427e",
             "path": "config/WatchDog/LoadedMods_FromLastStart.txt"
           }
@@ -2542,7 +2552,7 @@
           "type": "File",
           "artifact": {
             "size": 108,
-            "url": "http://176.9.225.251:8123/static/tundracraftsrv/config/WatchDog/WatchDog%20Anti-Cheat-Client.cfg",
+            "url": "http://176.9.225.251:8123/static/event/config/WatchDog/WatchDog%20Anti-Cheat-Client.cfg",
             "MD5": "837f7182a6319acfeff3a6706da69190",
             "path": "config/WatchDog/WatchDog Anti-Cheat-Client.cfg"
           }
@@ -2553,7 +2563,7 @@
           "type": "File",
           "artifact": {
             "size": 7632,
-            "url": "http://176.9.225.251:8123/static/tundracraftsrv/config/cfm.cfg",
+            "url": "http://176.9.225.251:8123/static/event/config/cfm.cfg",
             "MD5": "d73d0166e2d7586fabb19c1a00747179",
             "path": "config/cfm.cfg"
           }
@@ -2564,7 +2574,7 @@
           "type": "File",
           "artifact": {
             "size": 2670,
-            "url": "http://176.9.225.251:8123/static/tundracraftsrv/config/craftpresence.properties",
+            "url": "http://176.9.225.251:8123/static/event/config/craftpresence.properties",
             "MD5": "bc33cdc15b3f4664dad88ed11ab76077",
             "path": "config/craftpresence.properties"
           }
@@ -2575,7 +2585,7 @@
           "type": "File",
           "artifact": {
             "size": 4653,
-            "url": "http://176.9.225.251:8123/static/tundracraftsrv/config/defaultoptions/keybindings.txt",
+            "url": "http://176.9.225.251:8123/static/event/config/defaultoptions/keybindings.txt",
             "MD5": "c4dd8e485d609928ef7782f12ad1ce68",
             "path": "defaultoptions/keybindings.txt"
           }
@@ -2586,7 +2596,7 @@
           "type": "File",
           "artifact": {
             "size": 471,
-            "url": "http://176.9.225.251:8123/static/tundracraftsrv/config/defaultoptions.cfg",
+            "url": "http://176.9.225.251:8123/static/event/config/defaultoptions.cfg",
             "MD5": "2a3cf44efe3d17af71af367df0442361",
             "path": "config/defaultoptions.cfg"
           }
@@ -2597,7 +2607,7 @@
           "type": "File",
           "artifact": {
             "size": 52019,
-            "url": "http://176.9.225.251:8123/static/tundracraftsrv/config/ebwizardry/ebwizardry.cfg",
+            "url": "http://176.9.225.251:8123/static/event/config/ebwizardry/ebwizardry.cfg",
             "MD5": "e6e07975931df52a9dc554db461b572e",
             "path": "config/ebwizardry/ebwizardry.cfg"
           }
@@ -2608,7 +2618,7 @@
           "type": "File",
           "artifact": {
             "size": 3955,
-            "url": "http://176.9.225.251:8123/static/tundracraftsrv/config/forge.cfg",
+            "url": "http://176.9.225.251:8123/static/event/config/forge.cfg",
             "MD5": "106a029d887c70ad6c308ad5c2d1ff6f",
             "path": "config/forge.cfg"
           }
@@ -2619,7 +2629,7 @@
           "type": "File",
           "artifact": {
             "size": 9544,
-            "url": "http://176.9.225.251:8123/static/tundracraftsrv/config/itlt/icon.png",
+            "url": "http://176.9.225.251:8123/static/event/config/itlt/icon.png",
             "MD5": "8fe1d1813cd3192364e39f735255ec25",
             "path": "config/itlt/icon.png"
           }
@@ -2630,7 +2640,7 @@
           "type": "File",
           "artifact": {
             "size": 1470,
-            "url": "http://176.9.225.251:8123/static/tundracraftsrv/config/itlt.cfg",
+            "url": "http://176.9.225.251:8123/static/event/config/itlt.cfg",
             "MD5": "a0ced270d857f949cb83e245ca57b149",
             "path": "config/itlt.cfg"
           }
@@ -2641,7 +2651,7 @@
           "type": "File",
           "artifact": {
             "size": 1896,
-            "url": "http://176.9.225.251:8123/static/tundracraftsrv/config/journeymap/config/5.7/journeymap.core.config",
+            "url": "http://176.9.225.251:8123/static/event/config/journeymap/config/5.7/journeymap.core.config",
             "MD5": "0fbb31d16a2a638195215240c3456f8b",
             "path": "config/journeymap/config/5.7/journeymap.core.config"
           }
@@ -2652,7 +2662,7 @@
           "type": "File",
           "artifact": {
             "size": 802,
-            "url": "http://176.9.225.251:8123/static/tundracraftsrv/config/journeymap/config/5.7/journeymap.fullmap.config",
+            "url": "http://176.9.225.251:8123/static/event/config/journeymap/config/5.7/journeymap.fullmap.config",
             "MD5": "4706e9bc9b35323e74145db72465d31f",
             "path": "config/journeymap/config/5.7/journeymap.fullmap.config"
           }
@@ -2663,7 +2673,7 @@
           "type": "File",
           "artifact": {
             "size": 1279,
-            "url": "http://176.9.225.251:8123/static/tundracraftsrv/config/journeymap/config/5.7/journeymap.minimap.config",
+            "url": "http://176.9.225.251:8123/static/event/config/journeymap/config/5.7/journeymap.minimap.config",
             "MD5": "d8925fde5f8919bd4cb39be74a9dfcd9",
             "path": "config/journeymap/config/5.7/journeymap.minimap.config"
           }
@@ -2674,7 +2684,7 @@
           "type": "File",
           "artifact": {
             "size": 1283,
-            "url": "http://176.9.225.251:8123/static/tundracraftsrv/config/journeymap/config/5.7/journeymap.minimap2.config",
+            "url": "http://176.9.225.251:8123/static/event/config/journeymap/config/5.7/journeymap.minimap2.config",
             "MD5": "43db59de1f7b3d67ea705bfcf3a161e2",
             "path": "config/journeymap/config/5.7/journeymap.minimap2.config"
           }
@@ -2685,7 +2695,7 @@
           "type": "File",
           "artifact": {
             "size": 1053,
-            "url": "http://176.9.225.251:8123/static/tundracraftsrv/config/journeymap/config/5.7/journeymap.topo.config",
+            "url": "http://176.9.225.251:8123/static/event/config/journeymap/config/5.7/journeymap.topo.config",
             "MD5": "bb63ff4cc579bbb791209d605abdcf94",
             "path": "config/journeymap/config/5.7/journeymap.topo.config"
           }
@@ -2696,7 +2706,7 @@
           "type": "File",
           "artifact": {
             "size": 824,
-            "url": "http://176.9.225.251:8123/static/tundracraftsrv/config/journeymap/config/5.7/journeymap.waypoint.config",
+            "url": "http://176.9.225.251:8123/static/event/config/journeymap/config/5.7/journeymap.waypoint.config",
             "MD5": "7cc344dace6b7ce4747bfe1c2ae17d85",
             "path": "config/journeymap/config/5.7/journeymap.waypoint.config"
           }
@@ -2707,7 +2717,7 @@
           "type": "File",
           "artifact": {
             "size": 462,
-            "url": "http://176.9.225.251:8123/static/tundracraftsrv/config/journeymap/config/5.7/journeymap.webmap.config",
+            "url": "http://176.9.225.251:8123/static/event/config/journeymap/config/5.7/journeymap.webmap.config",
             "MD5": "eb3869be3d84cbfe3e61b80616e2e5de",
             "path": "config/journeymap/config/5.7/journeymap.webmap.config"
           }
@@ -2718,7 +2728,7 @@
           "type": "File",
           "artifact": {
             "size": 177,
-            "url": "http://176.9.225.251:8123/static/tundracraftsrv/config/betterfps.json",
+            "url": "http://176.9.225.251:8123/static/event/config/betterfps.json",
             "MD5": "20b7479cc5bde9d7c421dddd8785a7ad",
             "path": "config/betterfps.json"
           }
@@ -2729,7 +2739,7 @@
           "type": "File",
           "artifact": {
             "size": 6324,
-            "url": "http://176.9.225.251:8123/static/tundracraftsrv/config/inventoryhud.cfg",
+            "url": "http://176.9.225.251:8123/static/event/config/inventoryhud.cfg",
             "MD5": "8383bd99a01579f55a3b3c621017a6a9",
             "path": "config/inventoryhud.cfg"
           }
@@ -2740,7 +2750,7 @@
           "type": "File",
           "artifact": {
             "size": 13773,
-            "url": "http://176.9.225.251:8123/static/tundracraftsrv/config/openblocks.cfg",
+            "url": "http://176.9.225.251:8123/static/event/config/openblocks.cfg",
             "MD5": "57ab9110c23ff95041a1321480c302d9",
             "path": "config/openblocks.cfg"
           }
@@ -2751,7 +2761,7 @@
           "type": "File",
           "artifact": {
             "size": 451,
-            "url": "http://176.9.225.251:8123/static/tundracraftsrv/config/vanillafix.cfg",
+            "url": "http://176.9.225.251:8123/static/event/config/vanillafix.cfg",
             "MD5": "9b218468aaa141854136249f2000327e",
             "path": "config/vanillafix.cfg"
           }
@@ -2762,7 +2772,7 @@
           "type": "File",
           "artifact": {
             "size": 137,
-            "url": "http://176.9.225.251:8123/static/tundracraftsrv/config/waila/theme/dark.json",
+            "url": "http://176.9.225.251:8123/static/event/config/waila/theme/dark.json",
             "MD5": "91f7d992164fa6c216f5a23059b2137a",
             "path": "config/waila/theme/dark.json"
           }
@@ -2773,7 +2783,7 @@
           "type": "File",
           "artifact": {
             "size": 140,
-            "url": "http://176.9.225.251:8123/static/tundracraftsrv/config/waila/theme/vanilla.json",
+            "url": "http://176.9.225.251:8123/static/event/config/waila/theme/vanilla.json",
             "MD5": "93f67ec8cc14f861d01b4b930b49525b",
             "path": "config/waila/theme/vanilla.json"
           }
@@ -2784,7 +2794,7 @@
           "type": "File",
           "artifact": {
             "size": 5134,
-            "url": "http://176.9.225.251:8123/static/tundracraftsrv/config/waila/waila.cfg",
+            "url": "http://176.9.225.251:8123/static/event/config/waila/waila.cfg",
             "MD5": "a975339c8479dbdfcc04619f1c82fa11",
             "path": "config/waila/waila.cfg"
           }
@@ -2795,7 +2805,7 @@
           "type": "File",
           "artifact": {
             "size": 103826,
-            "url": "http://176.9.225.251:8123/static/tundracraftsrv/config/quark.cfg",
+            "url": "http://176.9.225.251:8123/static/event/config/quark.cfg",
             "MD5": "1b063575c34253135cd0301eaff7dc44",
             "path": "config/quark.cfg"
           }
@@ -2806,7 +2816,7 @@
           "type": "File",
           "artifact": {
             "size": 7416,
-            "url": "http://176.9.225.251:8123/static/tundracraftsrv/resources/minecraft/textures/font/ascii.png",
+            "url": "http://176.9.225.251:8123/static/event/resources/minecraft/textures/font/ascii.png",
             "MD5": "25d87ab06915b7a1beb9833377fa3bc3",
             "path": "resources/minecraft/textures/font/ascii.png"
           }
@@ -2817,7 +2827,7 @@
           "type": "File",
           "artifact": {
             "size": 2007,
-            "url": "http://176.9.225.251:8123/static/tundracraftsrv/resources/minecraft/textures/font/ascii.properties",
+            "url": "http://176.9.225.251:8123/static/event/resources/minecraft/textures/font/ascii.properties",
             "MD5": "62a9b1e877ae16bd77c111d66968bff7",
             "path": "resources/minecraft/textures/font/ascii.properties"
           }
@@ -2828,7 +2838,7 @@
           "type": "File",
           "artifact": {
             "size": 4177,
-            "url": "http://176.9.225.251:8123/static/tundracraftsrv/resources/minecraft/textures/font/ascii_sga.png",
+            "url": "http://176.9.225.251:8123/static/event/resources/minecraft/textures/font/ascii_sga.png",
             "MD5": "456acf9d416f538a0f3452170b21c8d7",
             "path": "resources/minecraft/textures/font/ascii_sga.png"
           }
@@ -2839,7 +2849,7 @@
           "type": "File",
           "artifact": {
             "size": 645,
-            "url": "http://176.9.225.251:8123/static/tundracraftsrv/resources/minecraft/textures/font/ascii_sga.properties",
+            "url": "http://176.9.225.251:8123/static/event/resources/minecraft/textures/font/ascii_sga.properties",
             "MD5": "73c6c0a9c8960a4f9b573cfb81814737",
             "path": "resources/minecraft/textures/font/ascii_sga.properties"
           }
@@ -2850,7 +2860,7 @@
           "type": "File",
           "artifact": {
             "size": 1917,
-            "url": "http://176.9.225.251:8123/static/tundracraftsrv/config/shouldersurfing.cfg",
+            "url": "http://176.9.225.251:8123/static/event/config/shouldersurfing.cfg",
             "MD5": "f8e9eaa0df455e7c165f8e599f61928f",
             "path": "config/shouldersurfing.cfg"
           }
@@ -2872,7 +2882,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 39521574,
-            "url": "http://176.9.225.251:8123/static/tundracraftsrv/mods/required/RealisticTorches.jar",
+            "url": "http://176.9.225.251:8123/static/event/mods/required/RealisticTorches.jar",
             "MD5": "42ededfcb3847a132e684a4df3f6e103"
           }
         },
@@ -2882,7 +2892,7 @@
           "type": "File",
           "artifact": {
             "size": 3252,
-            "url": "http://176.9.225.251:8123/static/build/config/knownkeys.txt",
+            "url": "http://176.9.225.251:8123/static/event/config/knownkeys.txt",
             "path": "knownkeys.txt"
           }
         },
@@ -2892,7 +2902,7 @@
           "type": "File",
           "artifact": {
             "size": 6074,
-            "url": "http://176.9.225.251:8123/static/build/config/options.txt",
+            "url": "http://176.9.225.251:8123/static/event/config/options.txt",
             "path": "options.txt"
           }
         },
@@ -2902,7 +2912,7 @@
           "type": "File",
           "artifact": {
             "size": 1436,
-            "url": "http://176.9.225.251:8123/static/build/config/optionsof.txt",
+            "url": "http://176.9.225.251:8123/static/event/config/optionsof.txt",
             "path": "optionsof.txt"
           }
         },
@@ -2912,7 +2922,7 @@
           "type": "File",
           "artifact": {
             "size": 625,
-            "url": "http://176.9.225.251:8123/static/build/config/235428738748121088.json",
+            "url": "http://176.9.225.251:8123/static/event/config/235428738748121088.json",
             "MD5": "b6ebc931358af33434bdb84a4156c030",
             "path": "emojicord/dictionary/235428738748121088.json"
           }
