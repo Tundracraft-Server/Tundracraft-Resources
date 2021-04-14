@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
+  "version": "1.2.1",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "808439787048009809",
@@ -1945,7 +1945,7 @@
       "name": "Tundracraft Eventos",
       "description": "Tundracraft | damots02 | discord.gg/NpWBtzJDmQ",
       "icon": "http://176.9.225.251:8123/static/tundracraftsrv/graylogo.png",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "address": "176.9.225.251:25585",
       "minecraftVersion": "1.12.2",
       "discord": {
