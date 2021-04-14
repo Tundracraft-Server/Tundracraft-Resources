@@ -1,5 +1,5 @@
 {
-  "version": "1.1.9",
+  "version": "1.2.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "808439787048009809",
@@ -2904,6 +2904,17 @@
             "size": 1436,
             "url": "http://176.9.225.251:8123/static/build/config/optionsof.txt",
             "path": "optionsof.txt"
+          }
+        },
+        {
+          "id": "235428738748121088.json",
+          "name": "235428738748121088.json",
+          "type": "File",
+          "artifact": {
+            "size": 625,
+            "url": "http://176.9.225.251:8123/static/tundracraftsrv/servers/tundracraft-1.12.2/files/emojicord/dictionary/235428738748121088.json",
+            "MD5": "b6ebc931358af33434bdb84a4156c030",
+            "path": "emojicord/dictionary/235428738748121088.json"
           }
         }
       ]
