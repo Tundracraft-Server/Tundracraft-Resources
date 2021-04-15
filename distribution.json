@@ -10,10 +10,10 @@
     {
       "id": "tundracraft-1.12.2",
       "name": "Tundracraft (Minecraft 1.12.2)",
-      "description": "Tundracraft | damots02 | discord.gg/NpWBtzJDmQ",
+      "description": "Tundracraft Eventos | damots02",
       "icon": "http://176.9.225.251:8123/static/tundracraftsrv/logo.png",
       "version": "1.1.8",
-      "address": "176.9.225.251:25585",
+      "address": "176.9.225.251:25568",
       "minecraftVersion": "1.12.2",
       "discord": {
         "shortId": "<ID>",
@@ -1945,7 +1945,7 @@
       "name": "Tundracraft Eventos",
       "description": "Tundracraft | damots02 | discord.gg/NpWBtzJDmQ",
       "icon": "http://176.9.225.251:8123/static/tundracraftsrv/graylogo.png",
-      "version": "1.0.3",
+      "version": "1.0.4",
       "address": "176.9.225.251:25585",
       "minecraftVersion": "1.12.2",
       "discord": {
@@ -2884,6 +2884,96 @@
             "size": 39521574,
             "url": "http://176.9.225.251:8123/static/event/mods/required/RealisticTorches.jar",
             "MD5": "42ededfcb3847a132e684a4df3f6e103"
+          }
+        },
+        {
+          "id": "com.tterrag:betterplacement:1.0.0-1@jar",
+          "name": "Better Placement",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7025,
+            "url": "http://176.9.225.251:8123/static/event/mods/required/BetterPlacement.jar",
+            "MD5": "f4518692cd397dd5beda3903289352f7"
+          }
+        },
+        {
+          "id": "team.chisel:chisel:MC1.12.2-1.0.2.45@jar",
+          "name": "Chisel",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4547399,
+            "url": "http://176.9.225.251:8123/static/event/mods/required/Chisel.jar",
+            "MD5": "4abca22b2d696a7cd8b70e1a129343df"
+          }
+        },
+        {
+          "id": "c0_0ry.ferdinandsflowers:ferdinandsflowers:1.10.4.1@jar",
+          "name": "Ferdinand's Flowers",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1840731,
+            "url": "http://176.9.225.251:8123/static/event/mods/required/FerdinandFlowers.jar",
+            "MD5": "a4496b3fad90643787f47f5bd37f6a99"
+          }
+        },
+        {
+          "id": "vazkii.arl:autoreglib:1.3-32@jar",
+          "name": "AutoRegLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 108306,
+            "url": "http://176.9.225.251:8123/static/event/mods/required/LIB-AutoRegLib.jar",
+            "MD5": "4e5a4b881c27b1e4502a9a16c00882ad"
+          }
+        },
+        {
+          "id": "mcp.mobius:oreregen:1.0.1@jar",
+          "name": "Ore Regen",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 57519,
+            "url": "http://176.9.225.251:8123/static/event/mods/required/OreRegen.jar",
+            "MD5": "86dad1d0e7ab2c307189216805a84c60"
+          }
+        },
+        {
+          "id": "vazkii.quark.base:quark:r1.6-179@jar",
+          "name": "Quark",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3754803,
+            "url": "http://176.9.225.251:8123/static/event/mods/required/Quark.jar",
+            "MD5": "262d2f4413e2aa29024ac14e2bb474cd"
+          }
+        },
+        {
+          "id": "net.geforcemods:securitycraft:v1.8.20.1@jar",
+          "name": "SecurityCraft",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1633376,
+            "url": "http://176.9.225.251:8123/static/event/mods/required/SecurityCraft.jar",
+            "MD5": "97b623d1eb383eabf4714368ca6a4a97"
+          }
+        },
+        {
+          "id": "pl.asie.ucw:unlimitedchiselworks:0.3.4@jar",
+          "name": "Unlimited Chisel Works",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 123474,
+            "url": "http://176.9.225.251:8123/static/event/mods/required/UnlimitedChiselWorks.jar",
+            "MD5": "bb8322eccf169e62e43e63a051e8ffb2"
+          }
+        },
+        {
+          "id": "noppes.vc:variedcommodities:1.0@jar",
+          "name": "Varied Commodities",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1567926,
+            "url": "http://176.9.225.251:8123/static/event/mods/required/VariedCommodities.jar",
+            "MD5": "c4abbbf3e8705c5be1769f7617041803"
           }
         },
         {
