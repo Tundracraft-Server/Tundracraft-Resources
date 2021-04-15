@@ -2179,16 +2179,6 @@
           }
         },
         {
-          "id": "mod.lucky:lucky:7.6.0@jar",
-          "name": "Lucky Block",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 224316,
-            "url": "http://176.9.225.251:8123/static/event/mods/required/Luckyblock.jar",
-            "MD5": "8389d3c6a94b1578dfd6ec4a00ffc2e4"
-          }
-        },
-        {
           "id": "mezz.jei:jei:4.15.0.293@jar",
           "name": "Just Enough Items",
           "type": "ForgeMod",
